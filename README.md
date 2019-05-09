@@ -15,3 +15,6 @@
 >taruh di C
 >run as admin di CMD
 >kasih path di environment
+
+
+.\vcpkg remove opencv:x64-windows protobuf
